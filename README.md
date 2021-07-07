@@ -72,7 +72,8 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=FARIS-MOHAMMED-SHARIFF">
-</a>
+</a> -->
+<img src="https://komarev.com/ghpvc/?username=FARIS-MOHAMMED-SHARIFF">
 <a href="https://github.com/FARIS-MOHAMMED-SHARIFF?tab=followers"><img src="https://img.shields.io/github/followers/FARIS-MOHAMMED-SHARIFF?label=Followers&style=social" alt="GitHub Badge"></a>
