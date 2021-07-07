@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a web developer intern at the sparks foundation
+- 🔭 I’m currently a web developer intern at **The Sparks Foundation**
 
 - 🌱 I’m currently learning **Computer Science Engineering.**
 
