@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a Software development intern at **3c's**
+- 🔭 I’m currently a Software Engineer at **Glider.ai**
 
 - 🌱 I’m currently learning **Computer Science Engineering.**
 
